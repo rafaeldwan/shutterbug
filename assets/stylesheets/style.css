@@ -16,7 +16,7 @@ body {
 
 h1 {
   font-size: 36px;
-  background: transparent url("assets/images/logo.png") 0 0 no-repeat;
+  background: transparent url("../images/logo.png") 0 0 no-repeat;
   padding: 45px 0 15px 115px;
   font-weight: normal;
   color: #193441;
